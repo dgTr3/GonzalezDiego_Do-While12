@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Pedir números hasta qeu ingrese el 0");
